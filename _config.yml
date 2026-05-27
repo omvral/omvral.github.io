@@ -1,0 +1,17 @@
+title: omvral
+description: ""
+lang: de
+theme: minima
+
+minima:
+  skin: auto
+
+author:
+  name: omvral
+
+show_excerpts: true
+
+permalink: /:year/:month/:day/:title/
+
+
+footer_content: '© 2026 Omvral · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
