@@ -1,13 +1,12 @@
 title: omvral
-description: ""
+description: "omvral's personal blog"
 lang: de
 theme: minima
 
 minima:
   skin: auto
 
-author:
-  name: omvral
+author: omvral
 
 show_excerpts: true
 
